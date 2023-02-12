@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">PHP Developer</h3>
+<h3 align="center">PHP / Laravel Developer</h3>
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
