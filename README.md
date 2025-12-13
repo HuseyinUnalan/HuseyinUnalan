@@ -25,6 +25,7 @@
   <br>
   
   <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=HuseyinUnalan&show_icons=true&theme=transparent&locale=tr&hide_border=true" alt="Hüseyin's Stats" height="160" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuseyinUnalan&layout=compact&theme=transparent&locale=tr&hide_border=true" alt="Top Languages" height="160" />
   </div>
 
